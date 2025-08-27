@@ -59,13 +59,13 @@ Estou cursando **Engenharia de Software** e em constante desenvolvimento para ap
 />   
 
 <img 
-    align="left" 
-    alt="FlutterFlow" 
-    title="FlutterFlow" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/flutterflow-1.svg" 
-/> 
+  align="left"
+  alt="FlutterFlow"
+  title="FlutterFlow"
+  height="40px"
+  style="padding-right: 10px; vertical-align: middle;"
+  src="https://github.com/thamirisprevato/thamirisprevato/blob/main/flutterflow-logo.png?raw=true"
+/>
 
 <br clear="left"/>
 

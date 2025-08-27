@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Thamiris
+# 👩🏻‍💻 Thamiris Prevato
 
 **`Desenvolvedora`**
 
-Me chamo Thamiris Vieira Prevato, tenho 27 anos e sou natural do Rio de Janeiro, porém, atualmente moro em São Paulo. Atualmente, estou cursando Engenharia de Software.
+Me chamo Thamiris Vieira Prevato, tenho 27 anos, sou natural do Rio de Janeiro e atualmente moro em São Paulo. Estou cursando Engenharia de Software e em constante desenvolvimento para aprimorar minhas habilidades técnicas e contribuir em projetos de tecnologia com impacto real.
 
----
+##
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -61,6 +61,14 @@ Me chamo Thamiris Vieira Prevato, tenho 27 anos e sou natural do Rio de Janeiro,
 />   
 
 <br/>
+
+##
+ 
+<div> 
+  <a href = "mailto:thamirisv.prevato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thamiris-prevato-08487416a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <br/>
 
 ### 📊 Estatísticas

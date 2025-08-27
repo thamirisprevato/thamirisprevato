@@ -58,6 +58,15 @@ Estou cursando **Engenharia de Software** e em constante desenvolvimento para ap
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />   
 
+<img 
+    align="left" 
+    alt="FlutterFlow" 
+    title="FlutterFlow" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/flutterflow-1.svg" 
+/> 
+
 <br clear="left"/>
 
 ##

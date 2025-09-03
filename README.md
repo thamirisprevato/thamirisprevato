@@ -9,7 +9,14 @@ Estou cursando **Engenharia de Software** e em constante desenvolvimento para ap
 
 ### 🤖 Linguagens e Tecnologias
 
-
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 <img 
     align="left" 
     alt="Dart" 
@@ -33,14 +40,6 @@ Estou cursando **Engenharia de Software** e em constante desenvolvimento para ap
   height="40px"
   style="padding-right: 10px; vertical-align: middle;"
   src="https://github.com/thamirisprevato/thamirisprevato/blob/main/flutterflow-logo.png?raw=true"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
 <br clear="left"/>
